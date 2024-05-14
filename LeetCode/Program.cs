@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            ILeetCode leetCode = new LeetCode1();
+            ILeetCode leetCode = new LeetCode2();
             leetCode.Run();
         }
     }
